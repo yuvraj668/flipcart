@@ -1,0 +1,11 @@
+# WebStorm IDE Files
+.idea
+
+# Eclipse Project Files Which should not be Tracked
+**/.project
+**/.classpath
+**/.settings
+
+# Android Files Which should not be Tracked
+**/bin
+**/gen
