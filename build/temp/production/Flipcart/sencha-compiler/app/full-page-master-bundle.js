@@ -1,2 +1,2 @@
 // @tag full-page
-// @require E:\demo\apps\Flipcart\app.js
+// @require C:\wamp\www\flipcart\app.js
